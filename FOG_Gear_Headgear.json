@@ -1,0 +1,260 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Forward Operator Gear Helmet Accesories",
+    "Icon": "Backpack",
+    "Color": "FF0000FF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+        {
+            "ClassName": "FOG_COMTAC3_Headset",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 90.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_COMTAC3_Headset_CB",
+                "FOG_COMTAC3_Headset_RG" 
+
+            ]
+        },
+		        {
+            "ClassName": "FOG_M32_Headset",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 90.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_M32_Headset_RG",
+                "FOG_M32_Headset_Black" 
+
+            ]
+        },
+		        {
+            "ClassName": "FOG_Ronin_Hat",
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": 90.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Ronin_Hat",
+                "FOG_Ronin_Hat_Black" 
+
+            ]
+        },
+		        {
+            "ClassName": "FOG_SoftCap_MC",
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": 90.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+			"Variants": []
+        },
+				        {
+            "ClassName": "FOG_Boonie",
+            "MaxPriceThreshold": 750,
+            "MinPriceThreshold": 750,
+            "SellPricePercent": 90.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+			"Variants": [
+			    "FOG_Boonie_MC",
+				"FOG_Boonie_MCB",
+				"FOG_Boonie_AOR1",
+				"FOG_Boonie_AOR2",
+				"FOG_Boonie_M81",
+				"FOG_Boonie_Black",
+				"FOG_Boonie_Grey",
+				"FOG_Boonie_Khk",
+				"FOG_Boonie_RG",
+				"FOG_Boonie_CB"
+
+            ]
+        },
+				        {
+            "ClassName": "FOG_Arcteryx_Balaclava",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 90.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Arcteryx_Balaclava_CB",
+				"FOG_Arcteryx_Balaclava_RG",
+				"FOG_Arcteryx_Balaclava_Grey",
+				"FOG_Arcteryx_Balaclava_Black"
+
+            ]
+        },
+				        {
+            "ClassName": "FOG_AVONM53_Clear",
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": 90.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+
+        },
+				        {
+            "ClassName": "FOG_Ghost_Mask",
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": 90.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Ghost_Mask_New",
+				"FOG_Ghost_Mask_Black",
+				"FOG_Ghost_Mask_Black_White",
+				"FOG_Ghost_Mask_Black_Gold",
+				"FOG_Ghost_Mask_RG",
+				"FOG_Ghost_Mask_Tan",
+				"FOG_Ghost_Mask_Red",
+				"FOG_Ghost_Mask_Red_Gold"
+
+            ]
+        },
+				        {
+            "ClassName": "FOG_Ghost_Headset_Tan",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 90.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+
+        },		        {
+            "ClassName": "FOG_OpsCore_SOTR",
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": 90.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+
+        },
+					    {
+            "ClassName": "FOG_Knight_Mask",
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": 90.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Knight_Mask",
+                "FOG_Knight_Mask_Black"
+
+            ]
+        },
+						{
+            "ClassName": "FOG_M50_Gasmask_Black",
+            "MaxPriceThreshold": 4000,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": 90.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": []
+
+        },
+					    {
+            "ClassName": "FOG_Glasses_ESS",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Glasses_ESS_Black",
+                "FOG_Glasses_ESS_FDE"
+
+            ]
+        },
+						{
+            "ClassName": "FOG_Glasses_PitViper",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Glasses_PitViper_SunKist",
+				"FOG_Glasses_PitViper_Gold",
+				"FOG_Glasses_PitViper_Murica",
+				"FOG_Glasses_PitViper_Brights",
+				"FOG_Glasses_PitViper_Tropics",
+				"FOG_Glasses_PitViper_Yellow",
+				"FOG_Glasses_PitViper_Red"
+
+            ]
+        },
+						{
+            "ClassName": "FOG_GPNVG",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_GPNVG_Tan",
+				"FOG_GPNVG_Black",
+				"FOG_GPNVG_RG",
+				"FOG_GPNVG_Elite"
+
+            ]
+        },
+						{
+            "ClassName": "FOG_PVS31",
+            "MaxPriceThreshold": 5000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": 50.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_PVS31_Wrapped",
+				"FOG_PVS31_FDE",
+				"FOG_PVS31_FDE_Wrapped",
+				"FOG_PVS31A_Black"
+
+            ]
+        }
+		
+
+    ]
+}

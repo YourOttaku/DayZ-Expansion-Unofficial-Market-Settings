@@ -1,0 +1,72 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Forward Operator Gear Belts",
+    "Icon": "Backpack",
+    "Color": "FF0000FF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+        {
+            "ClassName": "FOG_BISON_Belt",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 90.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_BISON_Belt_CB",
+				"FOG_BISON_Belt_RG",
+				"FOG_BISON_Belt_Black",
+				"FOG_BISON_Belt_MC",
+				"FOG_BISON_Belt_MCB"    
+
+            ]
+        },
+		        {
+            "ClassName": "FOG_Belt_RTGFB",
+            "MaxPriceThreshold": 1600,
+            "MinPriceThreshold": 1600,
+            "SellPricePercent": 90.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Belt_RTGFB_CB",
+				"FOG_Belt_RTGFB_MC",
+				"FOG_Belt_RTGFB_RG",
+				"FOG_Belt_RTGFB_Black",
+				"FOG_Belt_RTGFB_AOR1",
+				"FOG_Belt_RTGFB_AOR2",
+				"FOG_Belt_RTGFB_ALP"    
+
+            ]
+        },
+		        {
+            "ClassName": "FOG_MRB_Belt",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 90.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_MRB_Belt_CB",
+				"FOG_MRB_Belt_MC",
+				"FOG_MRB_Belt_MCB",
+				"FOG_MRB_Belt_RG",
+				"FOG_MRB_Belt_AOR1",
+				"FOG_MRB_Belt_AOR2",
+				"FOG_MRB_Belt_ATACSAU",
+				"FOG_MRB_Belt_Black",
+				"FOG_MRB_Belt_6CD",
+				"FOG_MRB_Belt_MCT"  
+
+            ]
+        }
+
+    ]
+}

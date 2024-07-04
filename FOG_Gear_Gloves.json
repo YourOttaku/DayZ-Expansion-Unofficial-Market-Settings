@@ -1,0 +1,81 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Forward Operator Gear Gloves",
+    "Icon": "Backpack",
+    "Color": "FF0000FF",
+    "IsExchange": 0,
+    "InitStockPercent": 0.0,
+    "Items": [
+        {
+            "ClassName": "FOG_FerroGloves",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_FerroGloves_Tan",
+				"FOG_FerroGloves_Grey",
+				"FOG_FerroGloves_Red",
+				"FOG_FerroGloves_Blue",
+				"FOG_FerroGloves_White",
+				"FOG_FerroGloves_White_TanTrim",
+				"FOG_FerroGloves_CB",
+				"FOG_FerroGloves_RG",
+				"FOG_FerroGloves_Black",
+				"FOG_FerroGloves_Black_WhiteTrim",
+				"FOG_FerroGloves_Black_BlueTrim",
+				"FOG_FerroGloves_Black_RedTrim",
+				"FOG_FerroGloves_Black_TanTrim",
+				"FOG_FerroGloves_MC",
+				"FOG_FerroGloves_MCB",
+				"FOG_FerroGloves_M81",
+				"FOG_FerroGloves_AJ"   
+
+            ]
+        },
+		        {
+            "ClassName": "FOG_Tactical_Fingerless_Gloves",
+            "MaxPriceThreshold": 1600,
+            "MinPriceThreshold": 1600,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_Tactical_Fingerless_Gloves_Green",
+				"FOG_Tactical_Fingerless_Gloves_Black",
+				"FOG_Tactical_Fingerless_Gloves_Tan",
+				"FOG_Tactical_Fingerless_Gloves_MC",
+				"FOG_Tactical_Fingerless_Gloves_Red"  
+
+            ]
+        },
+		        {
+            "ClassName": "FOG_GunGloves",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 20.0,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": 0,
+            "SpawnAttachments": [],
+            "Variants": [
+                "FOG_GunGloves_Tan",
+				"FOG_GunGloves_Grey",
+				"FOG_GunGloves_Black",
+				"FOG_GunGloves_CB",
+				"FOG_GunGloves_RG",
+				"FOG_GunGloves_MC",
+				"FOG_GunGloves_MCB",
+				"FOG_GunGloves_M81",
+				"FOG_GunGloves_AOR2 " 
+
+            ]
+        }
+
+    ]
+}
